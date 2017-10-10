@@ -1,0 +1,26 @@
+{
+  "name": "@sonm/test-contract",
+  "version": "0.2.82",
+  "description": "SNM contract for wallet",
+  "main": "build/contracts/SNMT.json",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonm-io/SNMT.git"
+  },
+  "keywords": [
+    "sonm",
+    "snm",
+    "igorsuperstar"
+  ],
+  "author": "who knows?",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sonm-io/SNMT/issues"
+  },
+  "homepage": "https://github.com/sonm-io/SNMT#readme"
+}
